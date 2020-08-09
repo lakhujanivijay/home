@@ -5,9 +5,9 @@
   "version": "1.0.0",
   "private": true,
   "author": {
-    "name": "Hashir Shoaib",
-    "email": "hashirshoaeb@gmail.com",
-    "url": "https://github.com/hashirshoaeb"
+    "name": "Vijay Lakhujani",
+    "email": "lakhujanivijay@gmail.com",
+    "url": "https://github.com/lakhujanivijay"
   },
   "dependencies": {
     "@popperjs/core": "^2.1.1",
